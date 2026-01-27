@@ -2,3 +2,5 @@
 0xa1b5e76c012d010fc7dc8a474dd5ed0f1573bb94
 0xf0300ef0fcfdca573fd7b54a766f3b2b6da5f0af
 ........
+
+bắt buộc phải chạy bằng địa chri ví chữu thường nếu địa chỉ ví chữu hoa thì chạy node fix.js để thành chữ thường 
