@@ -1,0 +1,21 @@
+{
+  "name": "neftit",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "v1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.3",
+    "fs": "^0.0.1-security",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.6",
+    "undici": "^7.19.1",
+    "uuid": "^13.0.0"
+  }
+}
